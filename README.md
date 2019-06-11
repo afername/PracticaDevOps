@@ -1,5 +1,9 @@
 
-# NodePop Avanzado
+# Práctica DevOps VI Bootcamp Web KeepCoding
+
+## Práctica basada en aplicación Nodepop desarrollada con Node y Express
+## Acceso a través de servidor AWS en IP XXXXXXXXX 
+
 
 [Demo](/anuncios) of the methods (this link works only if you run the project)
 
