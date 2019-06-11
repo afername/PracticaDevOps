@@ -1,5 +1,6 @@
 'use strict'
 
+require('dotenv').config();
 const mongoose = require('mongoose')
 const readLine = require('readline')
 const async = require('async')
